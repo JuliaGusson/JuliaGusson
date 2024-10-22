@@ -1,6 +1,6 @@
 - 👋 Oi, sou Julia Gusson
 - 🌱 Atualmente estou fazendo Análise e Desenvolvimento de Sistemas
-- ✨ Pretendo trabalhar logo na área de T.I.
+- ✨ Pretendo arranjar em breve um trabalho na área de T.I.
 - 💕 Me interesso por linguagens de programação para front end
 
 <!---
